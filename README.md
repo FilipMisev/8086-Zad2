@@ -4,4 +4,5 @@ For the microprocessor system implemented in the previous task, write a routine 
  ![Screenshot (1)](https://github.com/FilipMisev/8086-Zad2/blob/main/2.1.png)
  ![Screenshot (1)](https://github.com/FilipMisev/8086-Zad2/blob/main/2.2%20-%20Copy.png)
  ![Screenshot (1)](https://github.com/FilipMisev/8086-Zad2/blob/main/2.3%20-%20Copy.png)
+ ![Screenshot (1)](https://github.com/FilipMisev/8086-Zad2/blob/main/2.4%20-%20Copy.png)
  ![Screenshot (1)]()
